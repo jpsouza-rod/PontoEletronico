@@ -1,0 +1,15 @@
+C:\Users\Jpsou\Downloads\PontoEletronico\bin\Debug\net6.0\PontoEletronico.exe
+C:\Users\Jpsou\Downloads\PontoEletronico\bin\Debug\net6.0\PontoEletronico.deps.json
+C:\Users\Jpsou\Downloads\PontoEletronico\bin\Debug\net6.0\PontoEletronico.runtimeconfig.json
+C:\Users\Jpsou\Downloads\PontoEletronico\bin\Debug\net6.0\PontoEletronico.dll
+C:\Users\Jpsou\Downloads\PontoEletronico\bin\Debug\net6.0\ref\PontoEletronico.dll
+C:\Users\Jpsou\Downloads\PontoEletronico\bin\Debug\net6.0\PontoEletronico.pdb
+C:\Users\Jpsou\Downloads\PontoEletronico\obj\Debug\net6.0\PontoEletronico.csproj.AssemblyReference.cache
+C:\Users\Jpsou\Downloads\PontoEletronico\obj\Debug\net6.0\PontoEletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jpsou\Downloads\PontoEletronico\obj\Debug\net6.0\PontoEletronico.AssemblyInfoInputs.cache
+C:\Users\Jpsou\Downloads\PontoEletronico\obj\Debug\net6.0\PontoEletronico.AssemblyInfo.cs
+C:\Users\Jpsou\Downloads\PontoEletronico\obj\Debug\net6.0\PontoEletronico.csproj.CoreCompileInputs.cache
+C:\Users\Jpsou\Downloads\PontoEletronico\obj\Debug\net6.0\PontoEletronico.dll
+C:\Users\Jpsou\Downloads\PontoEletronico\obj\Debug\net6.0\ref\PontoEletronico.dll
+C:\Users\Jpsou\Downloads\PontoEletronico\obj\Debug\net6.0\PontoEletronico.pdb
+C:\Users\Jpsou\Downloads\PontoEletronico\obj\Debug\net6.0\PontoEletronico.genruntimeconfig.cache
