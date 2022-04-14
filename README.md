@@ -1,4 +1,4 @@
-# Ponto Eletrônico - Working Day
+# Ponto Eletrônico 
 
 
 ### Principais funcionalidades do programa
